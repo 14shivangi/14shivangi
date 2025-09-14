@@ -2,6 +2,13 @@
 🎓 B.Tech   CSE (AI & ML) Graduate | ☁️ Cloud & Data Enthusiast 
 
 ## 🔧 Skills
+
+
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+
 •Cloud & Infra: AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch, Auto Scaling etc).
 
 •Networking: VPC, Subnets, Route 53, Load Balancer, NAT Gateway, Firewalls, Security Groups
