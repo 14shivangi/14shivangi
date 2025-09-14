@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Shivangi Mishra
+### Hi there 👋, I'm Shivangi Mishra
 🎓 B.Tech   CSE (AI & ML) Graduate | ☁️ Cloud & Data Enthusiast
  AWS | SQL | Python 
 
