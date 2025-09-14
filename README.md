@@ -31,7 +31,7 @@
 
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [LinkedIn][(https://www.linkedin.com/in/your-link)](https://www.linkedin.com/in/shivangi-mishra-s14/)  
 
 <!--
 **14shivangi/14shivangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
