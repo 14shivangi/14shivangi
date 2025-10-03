@@ -1,3 +1,14 @@
+<div align="center">
+  
+# Hi There 👋 , I'm Shivangi
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;Cloud+%26+DevOps+Engineering;+%2B;Cloud+Architecture)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+
 ### Hi there 👋, I'm Shivangi Mishra
 🎓 B.Tech   CSE (AI & ML) Graduate | ☁️ Cloud & Data Enthusiast 
 
