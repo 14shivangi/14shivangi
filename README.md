@@ -28,7 +28,6 @@
 
 ## **🚀 Cloud & DevOps**
 
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -43,7 +42,9 @@
 ## **🚀 Projects**
 - [High Availability Disaster Management System](#)  – Multi-region, multi-AZ resilient architecture on AWS  
 
-- [RDS to EC2 Integration Demo](#) – Connected RDS MySQL with EC2 for real-time SQL queries  
+- [RDS to EC2 Integration Demo](#) – Connected RDS MySQL with EC2 for real-time SQL queries
+
+---
 
 ## **🌱 About Me**
 - 💻 Passionate about Cloud, Data Analytics, and AI  
