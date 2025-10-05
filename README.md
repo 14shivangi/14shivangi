@@ -24,7 +24,6 @@
 - 🎯 Relevant Coursework: MySQL(Basics), Machine Learning, Artificial Neural Networks, Cloud Computing.
 
 ## **Cloud & DevOps**
----
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
