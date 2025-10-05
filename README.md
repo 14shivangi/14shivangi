@@ -13,7 +13,8 @@
 
 
 
-## 🔧 Skills
+## **🔧 Skills**
+---
 - 🎯 Cloud & Infra: AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch, Auto Scaling etc).
 - 🎯 Networking: VPC, Subnets, Route 53, Load Balancer, NAT Gateway, Firewalls, Security Groups
 - 🎯 Infrastructure Automation: AWS CLI, CloudFormation.
@@ -23,7 +24,10 @@
 - 🎯 OS & Tools: Linux, Windows, Visual Studio Code, Canva, MS Office.
 - 🎯 Relevant Coursework: MySQL(Basics), Machine Learning, Artificial Neural Networks, Cloud Computing.
 
-## **Cloud & DevOps**
+---
+
+## ** 🚀 Cloud & DevOps**
+---
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -36,12 +40,12 @@
 </p>
 
 ---
-## 🚀 Projects
+## **🚀 Projects**
 - [High Availability Disaster Management System](#)  – Multi-region, multi-AZ resilient architecture on AWS  
 
 - [RDS to EC2 Integration Demo](#) – Connected RDS MySQL with EC2 for real-time SQL queries  
 
-## 🌱 About Me
+## **🌱 About Me**
 - 💻 Passionate about Cloud, Data Analytics, and AI  
 - 🎯 Goal: To build impactful tech solutions  
 - 🌸 Strengths: Determination, adaptability, problem-solving  
