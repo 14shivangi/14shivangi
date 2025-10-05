@@ -14,22 +14,14 @@
 
 
 ## 🔧 Skills
-
-•Cloud & Infra: AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch, Auto Scaling etc).
-
-•Networking: VPC, Subnets, Route 53, Load Balancer, NAT Gateway, Firewalls, Security Groups
-
-•Infrastructure Automation: AWS CLI, CloudFormation.
-
-•CI/CD Tools: Git, GitHub, and Code pipeline.
-
-•Scripting & Markup: Shell, Python(Basics).
-
-•Monitoring: CloudWatch.
-
-•OS & Tools: Linux, Windows, Visual Studio Code, Canva, MS Office.
-
-•Relevant Coursework: MySQL(Basics), Machine Learning, Artificial Neural Networks, Cloud Computing.
+- Cloud & Infra: AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch, Auto Scaling etc).
+- Networking: VPC, Subnets, Route 53, Load Balancer, NAT Gateway, Firewalls, Security Groups
+- Infrastructure Automation: AWS CLI, CloudFormation.
+- CI/CD Tools: Git, GitHub, and Code pipeline.
+- Scripting & Markup: Shell, Python(Basics).
+- Monitoring: CloudWatch.
+- OS & Tools: Linux, Windows, Visual Studio Code, Canva, MS Office.
+- Relevant Coursework: MySQL(Basics), Machine Learning, Artificial Neural Networks, Cloud Computing.
 
 ### **Cloud & DevOps**
 ---
