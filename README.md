@@ -23,7 +23,7 @@
 - 🎯 OS & Tools: Linux, Windows, Visual Studio Code, Canva, MS Office.
 - 🎯 Relevant Coursework: MySQL(Basics), Machine Learning, Artificial Neural Networks, Cloud Computing.
 
-### **Cloud & DevOps**
+## **Cloud & DevOps**
 ---
 
 <p align="left">
