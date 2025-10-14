@@ -8,21 +8,6 @@
 
 
 </div>
-
-
-
----
-
-## ⚙️ DevOps Tech Stack
-
-<p align="center">
-  <b>☁️ Cloud & Orchestration:</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" />
-  <br><br>
-  <b>⚙️ CI/CD & IaC:</b><br>
-  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" />
-</p>
-
 ---
 
 
@@ -52,6 +37,9 @@
 </p>
 
 ---
+
+---
+
 ## **🚀 Projects**
 - [High Availability Disaster Management System](#)  – Multi-region, multi-AZ resilient architecture on AWS  
 
