@@ -49,6 +49,11 @@
 - 🌸 Strengths: Determination, adaptability, problem-solving  
 
 
+<h3 align="center"><strong>✨ DevOps isn't just automation. It's mindset, collaboration, and scaling innovation. ✨<br>🚀 Let's innovate and build the future together! 🚀</strong></h3>
+
+</div>
+
+
 ## 📫 Connect with me
 - [LinkedIn][(https://www.linkedin.com/in/your-link)](https://www.linkedin.com/in/shivangi-mishra-s14/)  
 
