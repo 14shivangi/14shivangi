@@ -2,6 +2,8 @@
 
 # Hi There 👋, I'm Shivangi
 # 🎓 B.Tech   CSE (AI & ML) Graduate | ☁️ Cloud & Data Enthusiast 
+<h2>Cloud & DevOps Engineer | CI/CD | Kubernetes | Docker | AWS</h2>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+%26+DevOps+Engineer;Cloud+Architecture;AWS+%7C+CI%2FCD+%7C+Linux)](https://git.io/typing-svg)
