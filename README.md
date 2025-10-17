@@ -12,6 +12,20 @@
 </div>
 
 
+## ✨ About Me
+
+👋 I'm **Shivangi Mishra**, a Cloud & DevOps Engineer, Hands-on experience in implementing, automating, and maintaining scalable infrastructure.
+- 💻 Passionate about Cloud, Artificial Intelligence and Machine Learning.
+- Contribute to open-source DevOps projects.
+- Land a full-time DevOps Engineer role and help scale faster.
+
+- 🎯 Goal: To build impactful tech solutions  
+- 🌸 Strengths: Determination, adaptability, problem-solving  
+
+
+ **My Background**
+- 🎯 Skilled in DevOps tools and cloud-native technologies through intensive project work, and self-driven learning.
+
 ## **🔧 Skills**
 
 - 🎯 Cloud & Infra: AWS (EC2, S3, RDS, IAM, Lambda, CloudWatch, Auto Scaling etc).
@@ -44,11 +58,6 @@
 - [RDS to EC2 Integration Demo](#) – Connected RDS MySQL with EC2 for real-time SQL queries
 
 ---
-
-## **🌱 About Me**
-- 💻 Passionate about Cloud, Data Analytics, and AI  
-- 🎯 Goal: To build impactful tech solutions  
-- 🌸 Strengths: Determination, adaptability, problem-solving  
 
 
 <h3 align="center"><strong>✨ DevOps isn't just automation. It's mindset, collaboration, and scaling innovation. ✨<br>🚀 Let's innovate and build the future together! 🚀</strong></h3>
