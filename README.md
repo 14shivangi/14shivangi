@@ -1,3 +1,9 @@
+<div align="center" style="background-color:#f0f9ff; padding:20px;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=SHIVANGI%20MISHRA&fontSize=30&fontColor=ffffff"/>
+
+
+
 <div align="center">
 
 # Hi There 👋, I'm Shivangi
