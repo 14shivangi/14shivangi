@@ -1,11 +1,9 @@
 <div align="center" style="background-color:#f0f9ff; padding:20px;">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=SHIVANGI%20MISHRA&fontSize=30&fontColor=ffffff"/>
 
-  <h1 align="center"> Hey there! I'm <span style="color:#38bdf8;">Shivangi</span></h1>
+<h1 align="center"> Hey there! I'm <span style="color:#38bdf8;">Shivangi</span></h1>
 <h2>Cloud & DevOps Engineer | CI/CD | Kubernetes | Docker | AWS</h2>
-
- <h3>🎓 B.Tech   CSE (AI & ML) Graduate | ☁️ Cloud & Data Enthusiast </h3>
-<h2>Cloud & DevOps Engineer | CI/CD | Kubernetes | Docker | AWS</h2>
+<h3>🎓 B.Tech   CSE (AI & ML) Graduate | ☁️ Cloud & Data Enthusiast </h3>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+%26+DevOps+Engineer;Cloud+Architecture;AWS+%7C+CI%2FCD+%7C+Linux)](https://git.io/typing-svg)
