@@ -59,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" width="250" height="250" />
   <br><br>
   <b>⚙️ CI/CD & IaC:</b><br>
-  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" width="250" height="250" />
+  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" width="400" height="400" />
 </p>
 
 
