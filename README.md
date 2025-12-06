@@ -54,6 +54,17 @@
 ## **🚀 Projects**
 #### [High Availability Disaster Management System](#)  –High Availability Disaster Management project using AWS with multi-region failover, automated backups. Multi-region, multi-AZ resilient architecture on AWS.
 
+<p align="center">
+  <b>☁️ Cloud & Orchestration:</b><br>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" width="250" height="250" />
+  <br><br>
+  <b>⚙️ CI/CD & IaC:</b><br>
+  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" width="250" height="250" />
+</p>
+
+
+
+
 #### [RDS to EC2 Integration Demo](#) – Connected RDS MySQL with EC2 for real-time SQL queries
 
 #### [s3-cross-account-access](#) - Allow another AWS account to list, download and pull files from your S3 bucket using IAM policies and CLI
