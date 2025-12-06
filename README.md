@@ -2,8 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=SHIVANGI%20MISHRA&fontSize=30&fontColor=ffffff"/>
 
   <h1 align="center"> Hey there! I'm <span style="color:#38bdf8;">Shivangi</span></h1>
+<h2>Cloud & DevOps Engineer | CI/CD | Kubernetes | Docker | AWS</h2>
 
- 🎓 B.Tech   CSE (AI & ML) Graduate | ☁️ Cloud & Data Enthusiast 
+ <h3>🎓 B.Tech   CSE (AI & ML) Graduate | ☁️ Cloud & Data Enthusiast </h3>
 <h2>Cloud & DevOps Engineer | CI/CD | Kubernetes | Docker | AWS</h2>
 
 
