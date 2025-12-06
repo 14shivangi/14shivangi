@@ -47,9 +47,6 @@
   <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" width="400" height="400" />
 </p>
 
----
-
-
 ## **🚀 Projects**
 #### [High Availability Disaster Management System](#)  –High Availability Disaster Management project using AWS with multi-region failover, automated backups. Multi-region, multi-AZ resilient architecture on AWS.
 
