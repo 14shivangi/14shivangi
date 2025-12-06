@@ -38,14 +38,13 @@
 
 ---
 
-## ⚙️ DevOps Tech Stack
-
+## ⚙️ DevOps Tech Stack:
 <p align="center">
   <b>☁️ Cloud & Orchestration:</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" width="250" height="250" />
   <br><br>
   <b>⚙️ CI/CD & IaC:</b><br>
-  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" />
+  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" width="400" height="400" />
 </p>
 
 ---
@@ -54,13 +53,6 @@
 ## **🚀 Projects**
 #### [High Availability Disaster Management System](#)  –High Availability Disaster Management project using AWS with multi-region failover, automated backups. Multi-region, multi-AZ resilient architecture on AWS.
 
-<p align="center">
-  <b>☁️ Cloud & Orchestration:</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" width="250" height="250" />
-  <br><br>
-  <b>⚙️ CI/CD & IaC:</b><br>
-  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" width="400" height="400" />
-</p>
 
 
 
