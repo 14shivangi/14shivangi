@@ -5,19 +5,6 @@
 <h2>Cloud & DevOps Engineer | CI/CD | Kubernetes | Docker | AWS</h2>
 
 
-
-<p align="center">
-  <b>☁️ Cloud & Orchestration:</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" width="200" height="200" />
-  <br><br>
-  <b>⚙️ CI/CD & IaC:</b><br>
-  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" width="250" height="250" />
-</p>
-
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+%26+DevOps+Engineer;Cloud+Architecture;AWS+%7C+CI%2FCD+%7C+Linux)](https://git.io/typing-svg)
 
 
