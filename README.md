@@ -1,13 +1,9 @@
 <div align="center" style="background-color:#f0f9ff; padding:20px;">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=SHIVANGI%20MISHRA&fontSize=30&fontColor=ffffff"/>
 
+  <h1 align="center"> Hey there! I'm <span style="color:#38bdf8;">Shivangi</span></h1>
 
-
-<div align="center">
-
-# Hi There 👋, I'm Shivangi
-## 🎓 B.Tech   CSE (AI & ML) Graduate | ☁️ Cloud & Data Enthusiast 
+ 🎓 B.Tech   CSE (AI & ML) Graduate | ☁️ Cloud & Data Enthusiast 
 <h2>Cloud & DevOps Engineer | CI/CD | Kubernetes | Docker | AWS</h2>
 
 
