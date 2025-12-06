@@ -53,13 +53,13 @@
 
 
 ## **🚀 Projects**
-### [High Availability Disaster Management System](#)  –High Availability Disaster Management project using AWS with multi-region failover, automated backups. Multi-region, multi-AZ resilient architecture on AWS.
+#### [High Availability Disaster Management System](#)  –High Availability Disaster Management project using AWS with multi-region failover, automated backups. Multi-region, multi-AZ resilient architecture on AWS.
 
-### [RDS to EC2 Integration Demo](#) – Connected RDS MySQL with EC2 for real-time SQL queries
+#### [RDS to EC2 Integration Demo](#) – Connected RDS MySQL with EC2 for real-time SQL queries
 
-### [s3-cross-account-access](#) - Allow another AWS account to list, download and pull files from your S3 bucket using IAM policies and CLI
+#### [s3-cross-account-access](#) - Allow another AWS account to list, download and pull files from your S3 bucket using IAM policies and CLI
 
-### [Project-Deploy_Static_Website_On_AWS_S3_Bucket_Using_Terraform](#) - This project uses Terraform to host a static webpage on Amazon S3 automatically. It sets up the bucket, enables website hosting, and deploys the HTML/CSS files in one command.
+#### [Project-Deploy_Static_Website_On_AWS_S3_Bucket_Using_Terraform](#) - This project uses Terraform to host a static webpage on Amazon S3 automatically. It sets up the bucket, enables website hosting, and deploys the HTML/CSS files in one command.
 
  
 ---
