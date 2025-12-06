@@ -36,9 +36,9 @@
 - 🎯 OS & Tools: Linux, Windows, Visual Studio Code, Canva, MS Office.
 - 🎯 Relevant Coursework: MySQL(Basics), Machine Learning, Artificial Neural Networks, Cloud Computing.
 
----
 
 ## ⚙️ DevOps Tech Stack:
+
 <p align="center">
   <b>☁️ Cloud & Orchestration:</b><br>
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" width="250" height="250" />
