@@ -14,10 +14,10 @@
 
 ## ✨ About Me
 
- - #### 👋 I'm **Shivangi Mishra**, a Cloud & DevOps Engineer, Hands-on experience in implementing, automating, and maintaining scalable infrastructure.
-- 💻 Passionate about Cloud, Artificial Intelligence and Machine Learning.
-- Contribute to open-source DevOps projects.
-- Land a full-time DevOps Engineer role and help scale faster.
+ ##### 👋 I'm **Shivangi Mishra**, a Cloud & DevOps Engineer, Hands-on experience in implementing, automating, and maintaining scalable infrastructure.
+##### 💻 Passionate about Cloud, Artificial Intelligence and Machine Learning.
+##### Contribute to open-source DevOps projects.
+##### Land a full-time DevOps Engineer role and help scale faster.
 
 - 🎯 Goal: To build impactful tech solutions  
 - 🌸 Strengths: Determination, adaptability, problem-solving  
