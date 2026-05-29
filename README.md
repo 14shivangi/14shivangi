@@ -37,15 +37,16 @@
 - 🎯 Relevant Coursework: MySQL(Basics), Machine Learning, Artificial Neural Networks, Cloud Computing.
 
 
-## ⚙️ DevOps Tech Stack:
+## ⚙️ DevOps Tech Stack
 
 <p align="center">
   <b>☁️ Cloud & Orchestration:</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" width="250" height="250" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker" />
   <br><br>
   <b>⚙️ CI/CD & IaC:</b><br>
-  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" width="400" height="400" />
+  <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,linux" />
 </p>
+
 
 ## **🚀 Projects**
 #### [High Availability Disaster Management System](#)  –High Availability Disaster Management project using AWS with multi-region failover, automated backups. Multi-region, multi-AZ resilient architecture on AWS.
